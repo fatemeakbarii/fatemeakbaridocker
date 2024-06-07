@@ -1,5 +1,5 @@
 import unittest
-from app import index
+from my-python-app.app import index
 
 class TestApp(unittest.TestCase):
     def test_hello_world(self):
